@@ -9999,12 +9999,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6148322110492450051, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6148322110492450053, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
       propertyPath: enemiesLocation
       value: 
       objectReference: {fileID: 318671430}
+    - target: {fileID: 6148322110978241311, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2929156
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148322110978241311, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
+      propertyPath: m_Color.g
+      value: 0.2929156
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148322110978241311, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8301887
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9272c5944964dc540b3b4c1afa792d86, type: 3}
 --- !u!1001 &8402189772215170177
